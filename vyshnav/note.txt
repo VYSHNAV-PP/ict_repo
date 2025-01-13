@@ -1,0 +1,32 @@
+li*3
+
+ul>li*3
+
+
+<table>
+	<tr> ( table row)
+		<th> ( heading )
+		
+		
+		
+var add = (a, b) => a + b
+
+let person = {
+    name: "yes",
+    age: 40,
+    occupation: "Engineer"
+    
+}                  (objects => acts like dictionary in python)
+
+
+
+
+
+
+let people=[
+    { name: "yes", age: 40, occupation: "Engineer" },
+    { name: "hello", age: 45, occupation: "Engineer" },
+    { name: "no", age: 43, occupation: "Engineer" }
+
+
+]                             ( array of objects )
